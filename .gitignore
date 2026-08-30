@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 本地环境 / 编辑器
+.conda/
+.vscode/
+.idea/
+
+# 数据与运行产物（大文件，不入库）
+data/
+task1_GEI/cache/
+task2_GaitGraph/checkpoints/
+*.pkl
+*.pt
+*.npy
+
+# 个人文档 / 学习资料（不入库）
+代码详解.md
+任务.md
+周报/
+论文/
+
+# 系统 / 临时
+.DS_Store
+*.tmp
